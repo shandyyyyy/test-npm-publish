@@ -1,0 +1,13 @@
+{
+  "name": "test-npm-publish",
+  "version": "0.0.1",
+  "description": "For test",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "shandyyyyy",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
