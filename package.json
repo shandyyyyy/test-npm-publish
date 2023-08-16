@@ -2,7 +2,7 @@
   "name": "test-npm-publish",
   "version": "0.0.1",
   "description": "For test",
-  "private": true,
+  "private": false,
   "scripts": {},
   "keywords": [],
   "author": "shandyyyyy",
